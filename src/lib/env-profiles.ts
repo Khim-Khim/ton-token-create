@@ -4,9 +4,7 @@ interface Env {
 }
 
 export enum Environments {
-  MAINNET,
   TESTNET,
-  SANDBOX,
 }
 
 export enum Providers {
