@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ton-token-create/static/css/main.fc5705ca.css",
-    "main.js": "/ton-token-create/static/js/main.f5fb33b8.js",
+    "main.js": "/ton-token-create/static/js/main.4cd0511e.js",
     "static/js/787.d1d4a2c2.chunk.js": "/ton-token-create/static/js/787.d1d4a2c2.chunk.js",
     "static/media/coin-logo.svg": "/ton-token-create/static/media/coin-logo.be193ced0ab3174318408cbda298ed18.svg",
     "static/media/recent-search.svg": "/ton-token-create/static/media/recent-search.a6b8355c0a4b6929c6ac8c75e1eb2917.svg",
@@ -16,11 +16,11 @@
     "static/media/close.svg": "/ton-token-create/static/media/close.fd4f52334074b7c94a6d151d92ae564c.svg",
     "static/media/bullet.svg": "/ton-token-create/static/media/bullet.8706cb790748d19ca6cd8c56297ea15e.svg",
     "main.fc5705ca.css.map": "/ton-token-create/static/css/main.fc5705ca.css.map",
-    "main.f5fb33b8.js.map": "/ton-token-create/static/js/main.f5fb33b8.js.map",
+    "main.4cd0511e.js.map": "/ton-token-create/static/js/main.4cd0511e.js.map",
     "787.d1d4a2c2.chunk.js.map": "/ton-token-create/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5705ca.css",
-    "static/js/main.f5fb33b8.js"
+    "static/js/main.4cd0511e.js"
   ]
 }
